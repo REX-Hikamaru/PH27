@@ -1,0 +1,17 @@
+AIプロンプト
+使用AI：claude
+質問まとめ
+いくつかの修正と追加と全体コード表示
+SQLコード改めて全体表示
+two_factor_setup.phpでエラーが多発なので修正
+enhanced_dashboard.phpに追加ページ「設定」と「在庫レポート」と「注文管理」
+ログアウト機能も追加
+
+enhanced_dashboard.phpに追加ページ「設定」と「在庫レポート」と「注文管理」 
+enhanced_index.phpに「すでにログイン画面があるので」ログアウト機能も追加
+register.php「会員登録画面」のサイズを入力しやすく表示
+
+Undefined function 'checkAuth'.
+Undefined type 'EnhancedDatabase'.
+修正とlogin.phpでログアウト機能を追加
+残るは「設定ページ」と「在庫レポートページ」と「注文管理ページ」
